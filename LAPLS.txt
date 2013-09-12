@@ -16,6 +16,8 @@
 <li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292239311" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Drawing.jpg" alt="">Drawing!</a></li>
 <li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292357665" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Writing.jpg" alt="">Writing: Like Texting, Only Better</a></li>
 <li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292740811" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Pleasure.jpg" alt="">Reducing Harm: Pursuit of Pleasure</a></li>
+<li class="twothirty"><a href="https://www.eventbrite.com/event/8293418839" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Urban.jpg" alt="">Urban Sustainability</a></li>
+
 
 //These don't have Eventbrite links yet.  Of course.
 <li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Earring.jpg" alt="">Earring Making</a></li>
@@ -44,7 +46,6 @@
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Science.jpg" alt="">At Home Science Fun</a></li>
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Drupal.jpg" alt="">Introduction to Drupal CMS</a></li>
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Homemaking.jpg" alt="">Happy Homemaking</a></li>
-<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Urban.jpg" alt="">Urban Sustainability</a></li>
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Life.jpg" alt="">Life De-complexified</a></li>
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Date.jpg" alt="">How to Plan the Perfect Date</a></li>
 <li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Mambo.jpg" alt="">Mambo Basics</a></li>
