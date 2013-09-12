@@ -1,0 +1,59 @@
+<ul id="class">
+<li class="four"> <a href="https://www.eventbrite.com/event/7527652411" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Jam.jpg" alt="">Jam on it! DIY Jam Making
+</a> </li>
+<li class="four"> <a href="https://www.eventbrite.com/event/8292155059" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Rocks.jpg" alt="">The Story of Rocks</a> </li>
+<li class="four"><a href="https://www.eventbrite.com/event/8292855153" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Zumba.jpg" alt="">Zumba! Fitness and Fun</a></li>
+<li class="ten"><a href="https://www.eventbrite.com/event/8292883237" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Embroidery.jpg" alt="">Basic Embroidery</a></li>
+<li class="four"><a href="https://www.eventbrite.com/event/8292971501" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Breathe.jpg" alt="">Just Breathe</a></li>
+<li class="twothirty"><a href="https://www.eventbrite.com/event/8291890267" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Oils.jpg" alt="">Creating Body Oils with Essential Oils</a></li>
+<li class="twothirty"><a href="https://www.eventbrite.com/event/8292688655" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/1893.jpg" alt="">Legends of the 1893 Chicago World's Fair</a></li>
+<li class="twothirty"><a href="https://www.eventbrite.com/event/8292825063" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Linedancing.jpg" alt="">Beginner Line Dancing</a></li>
+<li class="eleventhirty one"><a href="https://www.eventbrite.com/event/8291946435" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Painting.jpg" alt="">Painting with Just Four Colors</a></li>
+<li class="one"><a href="https://www.eventbrite.com/event/8292441917" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Fiction.jpg" alt="">Fiction Writing</a></li>
+<li class="one"><a href="https://www.eventbrite.com/event/8292877219" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Embrace.jpg" alt="">Embracing Life Fully</a></li>
+<li class="one"><a href="https://www.eventbrite.com/event/8293338599" target-"_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Events.jpg" alt="">Event Planning</a></li>
+<li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292048741" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Beautiful.jpg" alt="">It's A Beautiful Day In My Neighborhood</a></li>
+<li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292239311" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Drawing.jpg" alt="">Drawing!</a></li>
+<li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292357665" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Writing.jpg" alt="">Writing: Like Texting, Only Better</a></li>
+<li class="eleventhirty"><a href="https://www.eventbrite.com/event/8292740811" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Pleasure.jpg" alt="">Reducing Harm: Pursuit of Pleasure</a></li>
+
+//These don't have Eventbrite links yet.  Of course.
+<li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Earring.jpg" alt="">Earring Making</a></li>
+<li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Rehab.jpg" alt="">Real Body Rehab</a></li>
+<li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Realestate.jpg" alt="">Real Estate</a></li>
+<li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Yoga.jpg" alt="">Yoga Basics</a></li>
+<li class="ten"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Kitchen.jpg" alt="">Kitchen Hints</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Excel.jpg" alt="">How Excel Can Make Your Life Easier</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Dating.jpg" alt="">Exploring Dating Resources</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Tango.jpg" alt="">Learn to Tango</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Energy.jpg" alt="">Tuning Into Your Personal Energy</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Acupuncture.jpg" alt="">Introduction to the Meridians of Acupuncture</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Movement.jpg" alt="">NIA: Sensory-Based Movement</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Weigh.jpg" alt="">Live More, Weight Less</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Dance.jpg" alt="">Come Dance!</a></li>
+<li class="eleventhirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Knife.jpg" alt="">Knife Skills</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Free.jpg" alt="">Free Chicago! The City's Hidden Gems</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Selfdefense.jpg" alt="">Self-Defense Basics</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Guitarsolo.jpg" alt="">Learn to Play a Guitar Solo</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Credit.jpg" alt="">Credit Myths, Discredited</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Latin.jpg" alt="">Ladies Styling: Latin Dance</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Commission.jpg" alt="">Mission in Commission</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Blues.jpg" alt="">Beginning Blues Dancing</a></li>
+<li class="one"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Microbiology.jpg" alt="">Microbiology</a></li>
+//This was already a two cigarette day.  FML.
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Science.jpg" alt="">At Home Science Fun</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Drupal.jpg" alt="">Introduction to Drupal CMS</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Homemaking.jpg" alt="">Happy Homemaking</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Urban.jpg" alt="">Urban Sustainability</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Life.jpg" alt="">Life De-complexified</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Date.jpg" alt="">How to Plan the Perfect Date</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Mambo.jpg" alt="">Mambo Basics</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Eastswing.jpg" alt="">Beginning East Coast Swing</a></li>
+<li class="twothirty"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Skin.jpg" alt="">Food for Skin</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Marketing.jpg" alt="">Digital Marketing on a Dime</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Faces.jpg" alt="">The Faces of Logan Square</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Conversations.jpg" alt="">Intentional Conversations</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Detox.jpg" alt="">Detox</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Photography.jpg" alt="">Night Photography</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/Westswing.jpg" alt="">Beginning West Coast Swing</a></li>
+<li class="four"><a href="" target="_blank"><img src="https://learnapalooza.s3.amazonaws.com/classes/True.jpg" alt="">Find Your True Self</a></li>
